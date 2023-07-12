@@ -12,4 +12,5 @@ respetando los parametros del .py.
 
 
 
-A una cosa que se me olvidaba los tipo de datos son casi todos TEXT excepto el id que se creó como PRIMARY KEY y además es AUTOINCREMENT
+A una cosa que se me olvidaba los tipo de datos son casi todos TEXT excepto el id que se creó como PRIMARY KEY y además es AUTOINCREMENT,
+también como este .py lo manejaba yo, no tuve mucho cuidado al nombrar las variables/atributos/nombredetablas por eso existe la columna correo pero al final no van correos ahí, pero ese tipo de cosas si te molestan las puedes llegar a editar, 
