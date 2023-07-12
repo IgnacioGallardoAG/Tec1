@@ -8,3 +8,8 @@ funcionando correctamente y no le falte ninguna columna.
 En caso de que te salga un error de que falta una columna recomiendo que borres el archivo de la base de datos y vuelvas a ejecutar el programa, eso
 debería solucionar el problema, en caso de que quieras solucionarlo recuerda que puedes modificar "datos.db" borras la tabla y la vuelves a crear
 respetando los parametros del .py.
+
+
+
+
+A una cosa que se me olvidaba los tipo de datos son casi todos TEXT excepto el id que se creó como PRIMARY KEY y además es AUTOINCREMENT
